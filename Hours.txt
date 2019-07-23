@@ -1,0 +1,5 @@
+- Worked first time in Python
+- Have successfully learnt the basic scraping of done in Python and how to connect the database in Python.
+- Used Python 3.7.2 
+- Used MySQL Workbench 8.0
+- Used my office timing, managed the multiple things in a single time and worked out with Python

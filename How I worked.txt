@@ -1,0 +1,3 @@
+- I used Github Repo
+- Everything where I started, when I worked, what things I worked have been pushed to the repository.
+- I have made the repo public and you can track easily my commits and working
